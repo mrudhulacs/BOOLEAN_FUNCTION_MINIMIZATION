@@ -35,8 +35,19 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
 
 F1
 
+![F1](https://github.com/user-attachments/assets/d0bae9fe-4b8f-4d46-9f2a-8cd5c40b8f6b)
 
 F2
+
+
+
+
+
+![TRUTH TABLE](https://github.com/user-attachments/assets/e79cf50c-faa9-4171-be0c-e0350488a607)
+
+
+
+
 
 **Program:**
 
@@ -86,7 +97,7 @@ F2
 
 **Timing Diagram**
 
-![TRUTH TABLE](https://github.com/user-attachments/assets/e79cf50c-faa9-4171-be0c-e0350488a607)
+
 
 
 **Result:**
