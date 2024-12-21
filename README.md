@@ -31,6 +31,13 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
 5.	For different input combinations generate the timing diagram.
 
 
+**minimization**
+
+F1
+
+
+F2
+
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
@@ -56,7 +63,11 @@ endmodule
 
 **Output:**
 
+F1
+
 ![Experiment 2     DE](https://github.com/user-attachments/assets/48c5d253-fb8c-4ce6-a7ac-cfcc829b67a9)
+
+ F2
 
 ![Experiment 2 1  DE](https://github.com/user-attachments/assets/300c6f6a-2860-424c-ac17-fa277a902e4b)
 
@@ -64,16 +75,18 @@ endmodule
 
 **RTL**
 
+F1
+
 ![Experiment 2    DE](https://github.com/user-attachments/assets/08049f27-a8d4-40ae-96da-f2bfe62b6285)
 
+F2 
 
 ![Experiment 2 1    DE](https://github.com/user-attachments/assets/24a56b75-cc56-4866-a6a6-2f2a1d64aae3)
 
 
 **Timing Diagram**
 
-
-
+![TRUTH TABLE](https://github.com/user-attachments/assets/e79cf50c-faa9-4171-be0c-e0350488a607)
 
 
 **Result:**
