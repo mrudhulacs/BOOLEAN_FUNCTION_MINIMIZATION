@@ -44,6 +44,8 @@ F2
 
 
 
+**Truth Table**
+
 ![TRUTH TABLE](https://github.com/user-attachments/assets/e79cf50c-faa9-4171-be0c-e0350488a607)
 
 
@@ -53,6 +55,8 @@ F2
 
 Developed by:CHITTOOR SARAVANA MRUDHULA                                         RegisterNumber:24003790
 
+
+F1
 ```
 module funct_1(a,b,c,d,f1);
 input a,b,c,d;
@@ -61,6 +65,8 @@ assign f1 = ((~b&~d)|(~a&b&d)|(a&b&~c));
 endmodule
 ```
 
+
+F2
 ```
 module funct_2(w,x,y,z,f2);
 input w,x,y,z;
@@ -68,17 +74,6 @@ output f2;
 assign f2 = ((~y&z)|(w&y)|(x&y));
 endmodule
 ```
-
-
-**Output:**
-
-F1
-
-![Experiment 2     DE](https://github.com/user-attachments/assets/48c5d253-fb8c-4ce6-a7ac-cfcc829b67a9)
-
- F2
-
-![Experiment 2 1  DE](https://github.com/user-attachments/assets/300c6f6a-2860-424c-ac17-fa277a902e4b)
 
 
 
@@ -91,6 +86,18 @@ F1
 F2 
 
 ![Experiment 2 1    DE](https://github.com/user-attachments/assets/24a56b75-cc56-4866-a6a6-2f2a1d64aae3)
+
+
+
+**Output:**
+
+F1
+
+![Experiment 2     DE](https://github.com/user-attachments/assets/48c5d253-fb8c-4ce6-a7ac-cfcc829b67a9)
+
+ F2
+
+![Experiment 2 1  DE](https://github.com/user-attachments/assets/300c6f6a-2860-424c-ac17-fa277a902e4b)
 
 
 
