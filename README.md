@@ -1,4 +1,3 @@
-![Experiment 2 1  DE](https://github.com/user-attachments/assets/2c7c1672-793f-4d57-b1a2-f55cd4e7a0df)# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -17,11 +16,6 @@ Hardware – PCs, Cyclone II , USB flasher
 **Theory**
 
 Boolean Algebra is a branch of algebra that deals with boolean values—true and false. It is fundamental to digital logic design and computer science, providing a mathematical framework for describing logical operations and expressions
-
-
-**Logic Diagram**
-
-![WhatsApp Image 2024-12-03 at 1 57 46 PM](https://github.com/user-attachments/assets/76112939-14d0-4894-80ed-4e5d497cf63d)
 
 
 **Procedure**
@@ -78,7 +72,8 @@ endmodule
 
 **Timing Diagram**
 
-![87c5bc07-e6f1-43f6-8852-135e82674d74](https://github.com/user-attachments/assets/41ff91fa-9fc7-49af-8ca1-fe352a882119)
+
+
 
 
 **Result:**
