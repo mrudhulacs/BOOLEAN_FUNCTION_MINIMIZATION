@@ -39,14 +39,12 @@ F1
 
 F2
 
+![F2](https://github.com/user-attachments/assets/37a88f17-6991-4aad-89a7-6ed15d52e979)
 
 
 
 
 ![TRUTH TABLE](https://github.com/user-attachments/assets/e79cf50c-faa9-4171-be0c-e0350488a607)
-
-
-
 
 
 **Program:**
@@ -93,10 +91,6 @@ F1
 F2 
 
 ![Experiment 2 1    DE](https://github.com/user-attachments/assets/24a56b75-cc56-4866-a6a6-2f2a1d64aae3)
-
-
-**Timing Diagram**
-
 
 
 
